@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="../assets/SafeMoney.png" alt="Logo-SafeMoney">
+<a href="https://imgbox.com/DXUNZKA8" target="_blank"><img src="https://thumbs2.imgbox.com/4b/79/DXUNZKA8_t.png" alt="image host"/></a>
 
 </div>
 
