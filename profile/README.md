@@ -8,7 +8,32 @@
 
 </div>
 
-<h2>Teste</h2>
+<h2>Uma plataforma para gerenciar suas finanças</h2>
+
+<p>
+  O Safe Money é uma solução inovadora projetada para auxiliar os usuários a melhorar suas habilidades financeiras e alcançar maior segurança econômica. Diante dos desafios enfrentados na economia pessoal, como endividamento excessivo, consumo impulsivo e falta de controle de gastos, o aplicativo surge como uma ferramenta intuitiva e educativa para promover o controle financeiro e a educação financeira.
+
+Principais Funcionalidades:
+
+Registro de Despesas: Os usuários podem registrar suas despesas diárias de maneira simples e rápida.
+Categorização de Gastos: Classificação das despesas em categorias específicas para uma análise mais detalhada.
+Definição de Metas Financeiras: Estabelecimento de metas personalizadas, como economizar para uma viagem ou quitar uma dívida.
+Orçamento Personalizado: Auxílio na criação de um orçamento adaptado às necessidades do usuário.
+Análise e Relatórios: Oferecimento de análises gráficas e relatórios sobre os hábitos de consumo e progresso em relação às metas financeiras.
+Dicas e Educação Financeira: Fornecimento de conteúdo educativo sobre finanças pessoais, investimentos e planejamento financeiro.
+Benefícios:
+
+Maior consciência financeira e redução do estresse associado a questões monetárias.
+Incentivo a hábitos de poupança, investimento e redução de dívidas.
+Contribuição para a estabilidade econômica do país através da educação financeira da população.
+Público-Alvo:
+
+O aplicativo atende principalmente pessoas da faixa etária de 18 a 29 anos que enfrentam desafios no controle financeiro devido à falta de experiência ou disciplina, além de profissionais como enfermeiros e fisioterapeutas que buscam uma gestão financeira mais clara e educativa.
+
+Objetivo:
+
+Promover a saúde financeira dos usuários através de uma plataforma de controle de gastos intuitiva, simples e educativa.
+</p>
 
 <h2>Linguagens utilizadas</h2>
 <div style="display: inline_block">
