@@ -58,6 +58,18 @@
   Promover a saúde financeira dos usuários através de uma plataforma de controle de gastos intuitiva, simples e prática.
 </p>
 
+<br>
+
+<h2>Integrantes</h2>
+<ul>
+  <li><a href=https://github.com/BrunoGardrich>Bruno Diedrich</a></li>
+  <li><a href=https://github.com/EduardoJorgetti>Eduardo Jorgetti</a></li>
+  <li><a href=https://github.com/ErikAmorim13>Erik Amorim</a></li>
+  <li><a href=https://github.com/GabrielSFerr>Gabriel</a></li>
+  <li><a href=https://github.com/01IgorNascimento>Igor Nascimento</a></li>
+  <li><a href=https://github.com/NathanD4vid>Nathan David</a></li>
+</ul>
+
 <h2>Linguagens utilizadas</h2>
 <div style="display: inline_block">
   
