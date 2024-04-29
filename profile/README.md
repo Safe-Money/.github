@@ -1,6 +1,6 @@
 # .github<h1 align="center">Bem-vindo a SafeMoney</h1>
 
-<h3 align="center">Uma empresa com foco na gestão de finanças pessoais</h3>
+<h3 align="center">Uma plataforma com foco na gestão de finanças pessoais</h3>
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 
 </div>
 
-<h2>Uma plataforma para gerenciar suas finanças</h2>
+<h2>Uma ambiente Web e Mobile para gerenciar suas finanças</h2>
 
 <p>
   O Safe Money é uma solução inovadora projetada para auxiliar os usuários a melhorar suas habilidades financeiras e alcançar maior segurança econômica. Diante dos desafios enfrentados na economia pessoal, como endividamento excessivo, consumo impulsivo e falta de controle de gastos, o aplicativo surge como uma ferramenta intuitiva e educativa para promover o controle financeiro e a educação financeira.
