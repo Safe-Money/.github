@@ -70,6 +70,9 @@
   <li><a href=https://github.com/NathanD4vid>Nathan David</a></li>
 </ul>
 
+<br>
+<br>
+
 <h2>Linguagens utilizadas</h2>
 <div style="display: inline_block">
   
