@@ -1,4 +1,4 @@
-# .github<h1 align="center">Bem-vindo a SafeMoney</h1>
+<h1 align="center">Bem-vindo a SafeMoney</h1>
 
 <h3 align="center">Uma plataforma com foco na gestão de finanças pessoais</h3>
 
