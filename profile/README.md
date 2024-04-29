@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<a href="https://imgbox.com/DXUNZKA8" target="_blank"><img src="https://thumbs2.imgbox.com/4b/79/DXUNZKA8_t.png" alt="image host"/></a>
+<a href="https://imgbox.com/DXUNZKA8" target="_blank"><img src="https://images2.imgbox.com/4b/79/DXUNZKA8_o.png" alt="image host"/></a>
 
 </div>
 
