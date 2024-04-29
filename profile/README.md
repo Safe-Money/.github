@@ -71,7 +71,6 @@
 </ul>
 
 <br>
-<br>
 
 <h2>Linguagens utilizadas</h2>
 <div style="display: inline_block">
